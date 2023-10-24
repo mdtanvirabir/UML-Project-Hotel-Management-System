@@ -20,7 +20,7 @@ Development: Developers can refer to these diagrams to understand the software's
 
 Communication: Share these diagrams with stakeholders to explain the software's design and functionality.
 
-Maintenance: Use the diagrams as a reference for making modifications or enhancements to the Gym Management Software.
+Maintenance: Use the diagrams as a reference for making modifications or enhancements to the Hotel-Management-System Software.
 
 ## Contributing
 Contributions to this UML project are welcome. If you have suggestions for improving the diagrams, adding new diagrams, or enhancing the project's documentation, please feel free to contribute by submitting pull requests or opening issues.
