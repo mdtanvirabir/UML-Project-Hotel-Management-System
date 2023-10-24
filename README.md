@@ -6,7 +6,7 @@ This project aims to provide a Unified Modeling Language (UML) diagram for a GHo
 
 The primary objectives of this UML project are as follows:
 
-Visual Representation: Create UML diagrams that visually represent the Gym Management Software's architecture, including its key components, classes, relationships, and interactions.
+Visual Representation: Create UML diagrams that visually represent the Hotel-Management-System Software's architecture, including its key components, classes, relationships, and interactions.
 
 Improved Understanding: Enhance the understanding of the software's structure and behavior among developers, stakeholders, and potential users.
 
